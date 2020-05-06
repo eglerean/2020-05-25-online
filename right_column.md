@@ -1,18 +1,12 @@
 
 
-### Location
+### Location and time
 
-Edit here location, address, or video connection details.
+The workshop will be held online, details later.  We aim to make this
+workshop accessible to as many people as possible.
 
+[Convert 9:00 to my time zone](https://arewemeetingyet.com/Stockholm/2020-05-25/09:00/CodeRefinery%20online#eyJ1cmwiOiJodHRwczovL2NvZGVyZWZpbmVyeS5naXRodWIuaW8vMjAyMC0wNS0yNS1vbmxpbmUvIn0=)
 
-### Time
-
-(Adjust these times)
-
-- Tuesday 9:00 - 12:00 (CEST)
-  ([convert to my time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CodeRefinery-workshop&iso=20200407T07&ah=3))
-- Wednesday 9:00 - 12:00 (CEST)
-  ([convert to my time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CodeRefinery-workshop&iso=20200408T07&ah=3))
 
 
 ### Price
@@ -42,6 +36,27 @@ the Linux/Unix terminal shell.  We assume that you are familiar with the program
 language that you use in your work and research.  We try to keep the course as
 language-independent as possible but we will show some basic code examples in
 Python.
+
+### How to join
+
+Welcome to the first online mega-CodeRefinery.  This is "mega" because
+historically, we have been limited by physical space or number of
+helpers.  We want take direct action to reach as many people as possible.
+
+We are normally limited by number of helpers, thus:
+
+- Anyone may register as a learner, we will try to take as many as we can.
+- Or you can register as a helper
+- Register as a team, one helper and 4-5 learners.
+  - We will accept all complete teams
+  - This is a great opportunity to bring your friends and colleagues
+    and prepare for the future together.
+  - Decide some team name, and when registering, everone enter this
+    same name so that we can link you together.
+  - During the exercise sessions in breakout rooms, the helper has
+    primary responsibility for their group's hands-on exercises.
+    Instructors provide advance training and drop by to check and help
+    as needed.
 
 
 ### Prerequisites
