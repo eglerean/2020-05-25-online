@@ -43,8 +43,9 @@ Overlapping roles are allowed when you think it's reasonable!
 </tr>
 <tr>
   <th>25.may (M)</th>
-         <td>intro: <br>
-		     git-intro: <br>
+         <td>intro: rkdarst<br>
+		     git-intro 1/2: bast<br>
+		     git-intro 2/2: <br>
 	     </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
@@ -53,6 +54,7 @@ Overlapping roles are allowed when you think it's reasonable!
 <tr>
   <th>26.may (T)</th>
          <td>git-intro: <br>
+         <td>git-intro history inspection: bast<br>
 	     </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
@@ -60,7 +62,7 @@ Overlapping roles are allowed when you think it's reasonable!
 </tr>
 <tr>
   <th>27.may (W)</th>
-         <td>git-collab: <br>
+         <td>git-collab: bast, bjørn (forking)<br>
 	     </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
@@ -68,7 +70,7 @@ Overlapping roles are allowed when you think it's reasonable!
 </tr>
 <tr>
   <th>2.june (T)</th>
-         <td>intro: ? <br>
+         <td>intro: rkdarst<br>
 		     reproducible-research: (Thor) <br>
 		     social-coding: <br>
 	     </td>
@@ -79,7 +81,7 @@ Overlapping roles are allowed when you think it's reasonable!
 <tr>
   <th>3.june (W)</th>
          <td>documentation: Thor <br>
-		     jupyter: <br>
+		     jupyter: (rkdarst)<br>
 	     </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
@@ -87,13 +89,13 @@ Overlapping roles are allowed when you think it's reasonable!
 </tr>
 <tr>
   <th>4.june (Th)</th>
-         <td>testing: <br>
-		     modular code development: <br>
+         <td>testing: bjørn<br>
+		     modular code development: bast<br>
 		     outro: <br>
 	     </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
-         <td></td><!--expert helpers-->
+         <td>Juho</td><!--expert helpers-->
 </tr>
 </table>
 
