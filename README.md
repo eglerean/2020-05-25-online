@@ -72,7 +72,7 @@ Overlapping roles are allowed when you think it's reasonable!
   <th>2.june (T)</th>
          <td>intro: rkdarst<br>
 		     reproducible-research: (Thor) <br>
-		     social-coding: <br>
+		     social-coding: annefou<br>
 	     </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
