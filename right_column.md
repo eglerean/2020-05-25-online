@@ -97,6 +97,13 @@ Python.
   git, provide some initial advice on obvious error messages, and
   be able to call us for advanced help when it's needed.
 
+- **How does the waitlist work?**  Anyone can register, but you go to
+  the waitlist until we can be sure we have enough helpers.  We'll
+  continually approve people as we get space.  We know
+  this may be more unpredictable for you, but the way to make sure you
+  get in is join a team with a helper (or find us more helpers in
+  general).
+
 * **If the workshop is streamed/published, will I be visible?**
   Privacy and internal safety is our first concern.  Only instructors
   video will be published.  If you use voice to questions in the main room,
