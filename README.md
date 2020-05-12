@@ -31,7 +31,7 @@ Overlapping roles are allowed when you think it's reasonable!
 	     </td>
          <td>rkdarst</td><!--host-->
          <td>-</td><!--hackmd-->
-         <td>name, name, name</td><!--expert helpers-->
+         <td>name, name, name, Radovan</td><!--expert helpers-->
 </tr>
 <tr>
   <th>22.may (F) 13-14 CEST</th>
@@ -39,7 +39,7 @@ Overlapping roles are allowed when you think it's reasonable!
 	     </td>
          <td>rkdarst</td><!--host-->
          <td>-</td><!--hackmd-->
-         <td>name, name, name</td><!--expert helpers-->
+         <td>name, name, name, Radovan</td><!--expert helpers-->
 </tr>
 <tr>
   <th>25.may (M)</th>
