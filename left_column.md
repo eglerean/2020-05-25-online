@@ -2,7 +2,7 @@
 
 ### May 25-27 and June 2-4, 9:00-12:15 CEST
 
-<a class="btn btn-info disabled" href="#" data-mode="1" target="_blank">Registration will open soon</a>
+<a class="btn btn-success" href="https://indico.neic.no/event/141/registrations/66/" data-mode="1" target="_blank">Register here</a>
 
 Please see information at right for registration options: learner or
 helper, and individual or as a team.
