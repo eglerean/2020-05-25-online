@@ -76,7 +76,7 @@ Overlapping roles are allowed when you think it's reasonable!
 	     </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
-         <td></td><!--expert helpers-->
+         <td>Radovan</td><!--expert helpers-->
 </tr>
 <tr>
   <th>3.june (W)</th>
@@ -84,8 +84,8 @@ Overlapping roles are allowed when you think it's reasonable!
 		     jupyter: (rkdarst)<br>
 	     </td>
          <td>rkdarst</td><!--host-->
-         <td></td><!--hackmd-->
-         <td></td><!--expert helpers-->
+         <td>Radovan</td><!--hackmd-->
+         <td>Radovan</td><!--expert helpers-->
 </tr>
 <tr>
   <th>4.june (Th)</th>
