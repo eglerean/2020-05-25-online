@@ -25,6 +25,10 @@ This is an informal and interactive online event with type-along type
 of presentations, live coding, and demos. Short tutorials alternate
 with practical exercises.
 
+We might live stream or record (part of ) the workshop to reach an
+even wider audience.  In this case, privacy is our first concern and
+*only* the instructor's video will be published, and *breakout rooms
+for exercises are completely private*.  More details will come later.
 
 
 ### Software requirements

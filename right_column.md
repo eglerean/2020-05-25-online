@@ -84,3 +84,21 @@ Python.
 ([tips for helpers](https://github.com/coderefinery/manuals/blob/master/helping-and-teaching.md))
 
 - TBA
+
+
+### FAQ
+
+* **If the workshop is streamed/published, will I be visible?**
+  Privacy and internal safety is our first concern.  Only instructors
+  video will be published.  If you use voice to questions in the main room,
+  that might be published.  The most common way to ask questions is
+  written, and anyone can feel comfortable using this.  Breakout
+  rooms, where all of the hands-on work and most discussion happens,
+  is always private and unrecorded.
+
+* **I can't register/didn't make it past the waiting list, and I would
+  like to follow the streams myself.**  We don't yet know if we will
+  do this or what the format will be.  Please check back for further
+  information.  Note, we highly recommend registering as a team if
+  possible, you will get much more out of the workshop if you are a
+  part of it.
