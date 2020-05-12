@@ -54,7 +54,7 @@ Overlapping roles are allowed when you think it's reasonable!
 <tr>
   <th>26.may (T)</th>
          <td>git-intro: <br>
-         <td>git-intro history inspection: bast<br>
+             git-intro history inspection: bast<br>
 	     </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
