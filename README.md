@@ -49,7 +49,7 @@ Overlapping roles are allowed when you think it's reasonable!
 	     </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
-         <td></td><!--expert helpers-->
+         <td>Raphaela Heil</td><!--expert helpers-->
 </tr>
 <tr>
   <th>26.may (T)</th>
@@ -58,7 +58,7 @@ Overlapping roles are allowed when you think it's reasonable!
 	     </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
-         <td></td><!--expert helpers-->
+         <td>Raphaela Heil</td><!--expert helpers-->
 </tr>
 <tr>
   <th>27.may (W)</th>
@@ -66,7 +66,7 @@ Overlapping roles are allowed when you think it's reasonable!
 	     </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
-         <td></td><!--expert helpers-->
+         <td>Raphaela Heil</td><!--expert helpers-->
 </tr>
 <tr>
   <th>2.june (T)</th>
