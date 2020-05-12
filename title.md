@@ -1,5 +1,5 @@
-# CodeRefinery Online, May-June 2020
+# CodeRefinery, May 25 - June 4, 2020
 
-### Subtitle
+### Mega-, Online CodeRefinery to reach everyone
 
 ---
