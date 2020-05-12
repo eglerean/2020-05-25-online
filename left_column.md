@@ -9,7 +9,9 @@ helper, and individual or as a team.
 
 Because of our Nordic funding, priority is for Nordic participants.
 This is the first Mega-CodeRefinery, so we reserve the right to make
-changes.
+changes.  **We are getting many registrations, please help us find
+helpers.**  Everyone gets added to a waitlist initially, and we
+approve people as we get space.  Check back for updates.
 
 
 
