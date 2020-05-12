@@ -32,15 +32,16 @@ We are normally limited by number of helpers, thus:
 - Or you can register as a helper.  If you are somewhat comfortable
   with these tools, you can be a helper! (see below)
 - Register as a team, one helper and 4-6 learners.
-  - We will accept all complete teams
-  - This is a great opportunity to bring your friends and colleagues
-    and prepare for the future together.
+  - We will accept all complete teams.
+  - Everyone on the team must register separately.
   - Decide some team name, and when registering, everone enter this
     same name so that we can link you together.
   - During the exercise sessions in breakout rooms, the helper has
     primary responsibility for their group's hands-on exercises.
     Still, instructors drop by to check and help
     as needed, so don't worry if you don't know everything.
+  - This is a great opportunity to bring your friends and colleagues
+    and prepare for the future together.
 
 If you've been to a CodeRefinery before and have used git some after
 that, you are definitely capable of being a helper.  If you routinely
@@ -87,6 +88,14 @@ Python.
 
 
 ### FAQ
+
+* **Why should I come as a team?**  If you will work together later,
+  learning the tools at the same time is a great way to do it.
+
+* **Am I good enough to be a helper?**  If you are asking this
+  question, probably you are.  You should have some familiarity with
+  git, provide some initial advice on obvious error messages, and
+  be able to call us for advanced help when it's needed.
 
 * **If the workshop is streamed/published, will I be visible?**
   Privacy and internal safety is our first concern.  Only instructors
