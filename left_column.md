@@ -3,10 +3,10 @@
 ### May 25-27 and June 2-4, 9:00-12:15 CEST
 
 **We are full!  We will try to make more spaces available by live
-streaming.  Please check back here, for us to provide more
-information.  Helpers, see below.  People who are part of a team but
-didn't have time to register along with others, please contact us by
-email (below).**
+streaming.  Helpers can still register, see below.  People who are
+part of a team but didn't have time to register along with others,
+please contact us by email (below).**  This is a developing situation
+(2020-05-13), please check back for more information.
 
 <a class="btn btn-danger disabled" href="#" data-mode="1"
 target="_blank">We are full, see below</a>
@@ -21,6 +21,16 @@ helpers.**  Everyone gets added to a waitlist initially, and we
 approve people as we get space.  Check back for updates.
 
 Helpers may still register <a href="https://indico.neic.no/event/141/registrations/66/">here</a>.
+
+### Live streaming
+
+We will try to live stream the course so that others, who did not have
+time to register, will be able to follow along.  You will not have the
+full experience, and there will be breaks while people go to the
+breakout rooms and do exercises, but you should get some of the
+experience.  We also recommend you join the livestream as teams with a
+helper - this will help you learn more.  Check back for more
+information, including set-up instructions.
 
 
 ### Course goals and format
