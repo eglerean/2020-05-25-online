@@ -2,23 +2,39 @@
 
 ### May 25-27 and June 2-4, 9:00-12:15 CEST
 
-**We are full!  We will try to make more spaces available by live
-streaming.  Helpers can still register, see below.  People who are
-part of a team but didn't have time to register along with others,
-please contact us by email (below).**  This is a developing situation
+**We are full with over 130 people!  We will try to make more spaces
+available by live
+streaming.  Helpers are still needed and can still register, see
+below.**  This is a developing situation
 (2020-05-13), please check back for more information.
 
+* **I'm part of a team, some people had time to register but some
+  didn't.**  Contact us by email (below) and we'll help.
+
+* **Is there any way I can follow along?**  We'll try to live stream
+  it, see below.  The experience won't be the same, but we do what we
+  can.
+
+* **If it's online, why did you close?**  CodeRefinery workshops are
+  interactive, with lots of interaction between instructors, helpers,
+  and learners.  We can scale one-to-many easily, but we reached the
+  limits of an interactive format.
+
+* **When are registrations approved?**  We will look through number
+  of attendees and number of helpers, and accept who we can and direct
+  the rest to the live stream.
+
 <a class="btn btn-danger disabled" href="#" data-mode="1"
-target="_blank">We are full, see below</a>
+target="_blank">We are full, see above</a>
 
 Please see information at right for registration options: learner or
 helper, and individual or as a team.
 
 Because of our Nordic funding, priority is for Nordic participants.
 This is the first Mega-CodeRefinery, so we reserve the right to make
-changes.  **We are getting many registrations, please help us find
-helpers.**  Everyone gets added to a waitlist initially, and we
-approve people as we get space.  Check back for updates.
+changes.  Everyone gets added to a waitlist initially, and we
+approve people as we get space.  Check
+back for updates.
 
 Helpers may still register <a href="https://indico.neic.no/event/141/registrations/66/">here</a>.
 
@@ -29,8 +45,8 @@ time to register, will be able to follow along.  You will not have the
 full experience, and there will be breaks while people go to the
 breakout rooms and do exercises, but you should get some of the
 experience.  We also recommend you join the livestream as teams with a
-helper - this will help you learn more.  Check back for more
-information, including set-up instructions.
+helper - this will help you learn more.  **Check back for more
+information,** including set-up instructions.
 
 
 ### Course goals and format
