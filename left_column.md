@@ -2,7 +2,14 @@
 
 ### May 25-27 and June 2-4, 9:00-12:15 CEST
 
-<a class="btn btn-success" href="https://indico.neic.no/event/141/registrations/66/" data-mode="1" target="_blank">Register here</a>
+**We are full!  We will try to make more spaces available by live
+streaming.  Please check back here, for us to provide more
+information.  Helpers, see below.  People who are part of a team but
+didn't have time to register along with others, please contact us by
+email (below).**
+
+<a class="btn btn-danger disabled" href="#" data-mode="1"
+target="_blank">We are full, see below</a>
 
 Please see information at right for registration options: learner or
 helper, and individual or as a team.
@@ -13,6 +20,7 @@ changes.  **We are getting many registrations, please help us find
 helpers.**  Everyone gets added to a waitlist initially, and we
 approve people as we get space.  Check back for updates.
 
+Helpers may still register <a href="https://indico.neic.no/event/141/registrations/66/">here</a>.
 
 
 ### Course goals and format
