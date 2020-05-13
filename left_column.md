@@ -45,7 +45,7 @@ back for updates.
 
 ### Live streaming
 
-See right bottom →
+See [right bottom →](#streaming-info)
 
 
 ### Course goals and format
