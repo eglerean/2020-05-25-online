@@ -105,6 +105,7 @@ Pre-workshop installation help and verification times (see above)
 - 21.may (Th) 13-14 CEST
 - 22.may (F)  13-14 CEST
 
+
 **25 May (M)**
 - 9:00 - 9:30
   [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
@@ -129,13 +130,12 @@ Pre-workshop installation help and verification times (see above)
   (TBA)
 
 
-
 **2 June (T)**
-- 9:00 - 10:30
-  [Modular code development](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/modular-code-development/master/talk.md)
-  (TBA)
-- 10:30-12:00
+- 9:00 - 11:00
   [Reproducible research and FAIR data](https://coderefinery.github.io/reproducible-research/)
+  (TBA)
+- 11:00 - 12:00
+  [Social coding and open software](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md)
   (TBA)
 
 
@@ -144,19 +144,16 @@ Pre-workshop installation help and verification times (see above)
   [Documentation](https://coderefinery.github.io/documentation/)
   (TBA)
 - 10:30 - 12:00
-  [Automated testing part 1/2](https://coderefinery.github.io/testing/)
+  [Jupyter](https://coderefinery.github.io/jupyter/)
   (TBA)
 
 
 **4 June (Th)**
-- 9:00 - 10:00
-  [Automated testing part 1/2](https://coderefinery.github.io/testing/)
+- 9:00 - 10:30
+  [Automated testing](https://coderefinery.github.io/testing/)
   (TBA)
-- 10:00 - 11:00
-  [Jupyter](https://coderefinery.github.io/jupyter/)
-  (TBA)
-- 11:00 - 11:45
-  [Social coding and open software](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md)
+- 10:45 - 11:45
+  [Modular code development](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/modular-code-development/master/talk.md)
   (TBA)
 - 11:45 - 12:00
   [Concluding remarks and where to go from here](https://github.com/coderefinery/workshop-outro/blob/master/README.md)
