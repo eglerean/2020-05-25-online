@@ -118,3 +118,49 @@ Python.
   information.  Note, we highly recommend registering as a team if
   possible, you will get much more out of the workshop if you are a
   part of it.
+
+
+## Streaming info
+
+We will try to live stream the course so that others, who did not have
+time to register, will be able to follow along.
+
+**Check back for more information,** including set-up instructions.
+
+Advice on following the stream:
+
+* **Take this seriously.**  Don't do multiple meetings, reserve the entire
+  timeslots on your calendar, attend every session, do the preparation.
+
+* **Do the installation and configuration in advance, and double check
+  it.**  In real workshops, problems here slow us down a lot, and if
+  you don't prepare, you will immediately fall behind.  We might have
+  a pre-workshop stream to go over installation.
+
+* **Form a team anyway.**  You learn more from your colleagues than
+  you do from us, so take advantage.  Get one "helper" for your team, start
+  your own video call, watch the stream together, and during the
+  exercise times, work together.  We will be clear about our
+  timing, so that you can coordinate your team.  (Of course, you can
+  always follow individually)
+
+* You can interact on the **livestream chat**, but we don't promise to
+  be able to watch it.
+
+* Currently you **can't register or sign up for announcements** (for
+  the streaming) - keep checking this webpage
+  for details.  All news will be updated here.  Follow
+  [@coderefine](https://twitter.com/coderefine) on Twitter for news,
+  too.
+
+* We don't know what lessons we will stream yet.  We hope to all, but
+  will see about practicalities.
+
+* We don't know what streaming platform we will use (yet), but quite
+  likely Twitch.
+
+* **Come to an in-person workshop sometime.**  The stream probably
+  can't replace the experience and individual help you get in person.
+  Sign up on the [notify me
+  list](https://coderefinery.org/workshops/upcoming/#notify-me) to
+  hear about what comes next.

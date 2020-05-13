@@ -2,11 +2,16 @@
 
 ### May 25-27 and June 2-4, 9:00-12:15 CEST
 
+<a class="btn btn-danger disabled" href="#" data-mode="1"
+target="_blank">We are full, see below</a>
+
 **We are full with over 130 people!  We will try to make more spaces
 available by live
 streaming.  Helpers are still needed and can still register, see
 below.**  This is a developing situation
 (2020-05-13), please check back for more information.
+
+* **We still need helpers**, they may still register <a href="https://indico.neic.no/event/141/registrations/66/">here</a>.
 
 * **I'm part of a team, some people had time to register but some
   didn't.**  Contact us by email (below) and we'll help.
@@ -24,8 +29,9 @@ below.**  This is a developing situation
   of attendees and number of helpers, and accept who we can and direct
   the rest to the live stream.
 
-<a class="btn btn-danger disabled" href="#" data-mode="1"
-target="_blank">We are full, see above</a>
+* **How can I be notified of updates?**  Currently, we don't have any
+  way.  Follow [@coderefine](https://twitter.com/coderefine) on
+  Twitter.
 
 Please see information at right for registration options: learner or
 helper, and individual or as a team.
@@ -36,17 +42,10 @@ changes.  Everyone gets added to a waitlist initially, and we
 approve people as we get space.  Check
 back for updates.
 
-Helpers may still register <a href="https://indico.neic.no/event/141/registrations/66/">here</a>.
 
 ### Live streaming
 
-We will try to live stream the course so that others, who did not have
-time to register, will be able to follow along.  You will not have the
-full experience, and there will be breaks while people go to the
-breakout rooms and do exercises, but you should get some of the
-experience.  We also recommend you join the livestream as teams with a
-helper - this will help you learn more.  **Check back for more
-information,** including set-up instructions.
+See right bottom →
 
 
 ### Course goals and format
