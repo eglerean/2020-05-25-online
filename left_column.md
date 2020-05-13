@@ -1,6 +1,6 @@
 
 
-### May 25-27 and June 2-4, 9:00-12:15 CEST
+### May 25-27 and June 2-4, 9:00-12:00 CEST
 
 <a class="btn btn-danger disabled" href="#" data-mode="1"
 target="_blank">We are full, see below</a>
