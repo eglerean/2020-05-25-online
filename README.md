@@ -71,7 +71,7 @@ Overlapping roles are allowed when you think it's reasonable!
 <tr>
   <th>2.june (T)</th>
          <td>intro: rkdarst<br>
-		     reproducible-research: (Thor) <br>
+		     reproducible-research: Thor <br>
 		     social-coding: annefou<br>
 	     </td>
          <td>rkdarst</td><!--host-->
@@ -80,8 +80,8 @@ Overlapping roles are allowed when you think it's reasonable!
 </tr>
 <tr>
   <th>3.june (W)</th>
-         <td>documentation: Thor <br>
-		     jupyter: (rkdarst)<br>
+         <td>documentation:  <br>
+	      jupyter: Thor <br>
 	     </td>
          <td>rkdarst</td><!--host-->
          <td>Radovan</td><!--hackmd-->
