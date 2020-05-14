@@ -31,7 +31,7 @@ Overlapping roles are allowed when you think it's reasonable!
 	     </td>
          <td>rkdarst</td><!--host-->
          <td>-</td><!--hackmd-->
-         <td>name, name, name, Radovan</td><!--expert helpers-->
+         <td>Jarno, name, name, Radovan</td><!--expert helpers-->
 </tr>
 <tr>
   <th>22.may (F) 13-14 CEST</th>
@@ -39,7 +39,7 @@ Overlapping roles are allowed when you think it's reasonable!
 	     </td>
          <td>rkdarst</td><!--host-->
          <td>-</td><!--hackmd-->
-         <td>name, name, name, Radovan</td><!--expert helpers-->
+         <td>Jarno, name, name, Radovan</td><!--expert helpers-->
 </tr>
 <tr>
   <th>25.may (M)</th>
@@ -58,7 +58,7 @@ Overlapping roles are allowed when you think it's reasonable!
 	     </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
-         <td>Raphaela Heil</td><!--expert helpers-->
+         <td>Jarno, Raphaela Heil</td><!--expert helpers-->
 </tr>
 <tr>
   <th>27.may (W)</th>
@@ -66,7 +66,7 @@ Overlapping roles are allowed when you think it's reasonable!
 	     </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
-         <td>Raphaela Heil</td><!--expert helpers-->
+         <td>Jarno, Raphaela Heil</td><!--expert helpers-->
 </tr>
 <tr>
   <th>2.june (T)</th>
@@ -76,7 +76,7 @@ Overlapping roles are allowed when you think it's reasonable!
 	     </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
-         <td>Radovan</td><!--expert helpers-->
+         <td>Jarno, Radovan</td><!--expert helpers-->
 </tr>
 <tr>
   <th>3.june (W)</th>
@@ -85,7 +85,7 @@ Overlapping roles are allowed when you think it's reasonable!
 	     </td>
          <td>rkdarst</td><!--host-->
          <td>Radovan</td><!--hackmd-->
-         <td>Radovan</td><!--expert helpers-->
+         <td>Jarno, Radovan</td><!--expert helpers-->
 </tr>
 <tr>
   <th>4.june (Th)</th>
@@ -95,7 +95,7 @@ Overlapping roles are allowed when you think it's reasonable!
 	     </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
-         <td>Juho</td><!--expert helpers-->
+         <td>Jarno, Juho</td><!--expert helpers-->
 </tr>
 </table>
 
